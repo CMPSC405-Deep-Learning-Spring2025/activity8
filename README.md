@@ -10,9 +10,9 @@
 3. Run the program to observe the plots of the activation functions and discuss their behavior.
 
 ## Common Activation Functions
-- **ReLU:** \( f(x) = \max(0, x) \)
-- **Sigmoid:** \( f(x) = \frac{1}{1 + e^{-x}} \)
-- **Tanh:** \( f(x) = \tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}} \)
+- **ReLU:** $f(x) = \max(0, x)$
+- **Sigmoid:** $f(x) = \frac{1}{1 + e^{-x}}$
+- **Tanh:** $f(x) = \tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}}$
 
 ## Run the Program
 - Execute `activation_functions.py` to see the plots.  
